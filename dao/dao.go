@@ -13,7 +13,7 @@ var (
 
 const (
 	user     = "root"
-	password = "149661377.."
+	password = "password"
 	addr     = "127.0.0.1"
 	port     = "3306"
 	database = "ToDoList"
